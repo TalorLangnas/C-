@@ -1,6 +1,8 @@
-# C++ University Assignments
+# C++ Course
+> This repository serves as an index for all my C++ course assignments. Each link below directs to a specific assignment repository.
 
-This repository serves as an index for all my C++ course assignments. Each link below directs to a specific assignment repository.
+### *Course Description:*
+This course aims to train students in C++ programming, covering procedural, object-oriented, and functional paradigms with a focus on manual memory management. Additionally, it aims to develop essential skills including working in Linux environments and using Git for version control.
 
 ## Assignments
 
