@@ -1,4 +1,4 @@
-# C++ Course
+# C++ programming Course
 > This repository serves as an index for all my C++ course assignments. Each link below directs to a specific assignment repository.
 
 ### *Course Description:*
